@@ -1,0 +1,1 @@
+module.exports = {isReopenProject: "是否重新打开项目", weDevPath: "微信开发工具路径", title: "构建插件示例", ruleTest_msg: "填写字段不满足规则，请输入 'cocos'", options: { isReopenProject: "是否重新打开项目", weDevPath: "微信开发工具路径"}, description: "重新打开微信开发者工具的工具" };

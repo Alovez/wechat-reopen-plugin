@@ -1,0 +1,1 @@
+module.exports={isReopenProject: "Reopen Project", weDevPath: "Path of WeixinDevTool", isReopenProject: "is Reopen Project", title:"Cocos Build Plugin Example",ruleTest_msg:"The filled text does not meet the rules, please enter 'cocos'",options:{isReopenProject: "Reopen Project", weDevPath: "Path of WeixinDevTool"},description:"Reopen Wechat"};
